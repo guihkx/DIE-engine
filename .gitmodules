@@ -99,7 +99,7 @@
 	url = https://github.com/horsicq/XDemangleWidget.git
 [submodule "build_tools"]
 	path = build_tools
-	url = https://github.com/horsicq/build_tools
+	url = https://github.com/guihkx/build_tools.git
 [submodule "XCppfilt"]
 	path = XCppfilt
 	url = https://github.com/horsicq/XCppfilt
