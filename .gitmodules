@@ -18,7 +18,7 @@
 	url = https://github.com/horsicq/XQwt.git
 [submodule "XOptions"]
 	path = XOptions
-	url = https://github.com/horsicq/XOptions.git
+	url = https://github.com/guihkx/XOptions.git
 [submodule "XStyles"]
 	path = XStyles
 	url = https://github.com/horsicq/XStyles.git
